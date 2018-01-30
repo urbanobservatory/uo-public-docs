@@ -7,7 +7,8 @@ Our intention is to be transparent about the capabilities of the equipment we de
 ## Access to data
 
   * Websites 
-    * [Newcastle and the region](http://www.urbanobservatory.ac.uk/)
+    * [Project information](http://www.urbanobservatory.ac.uk/)
+    * [Newcastle and the region](http://uoweb1.ncl.ac.uk/)
     * [Rainfall radar](http://uoweb1.ncl.ac.uk/radar/)
     * [Urban Sciences Building](https://3d.usb.urbanobservatory.ac.uk/)
   * Requests
