@@ -26,3 +26,5 @@ Please send support queries [by email](mailto:urbanobservatory@ncl.ac.uk), and a
 If you believe there are issues in the data we're reporting, please [create an issue](https://github.com/urbanobservatory/uo-public-docs/issues/new) here on GitHub, so we can investigate.
 
 You can also [view issues we're aware of](https://github.com/urbanobservatory/uo-public-docs/issues), and our progress in resolving them.
+
+You can also follow us on twitter [@urbanobserv](https://twitter.com/urbanobserv)
