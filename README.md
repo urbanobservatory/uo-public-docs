@@ -11,6 +11,7 @@ Our intention is to be transparent about the capabilities of the equipment we de
     * [Newcastle and the region](https://newcastle.urbanobservatory.ac.uk/)
     * [Rainfall radar](https://newcastle.urbanobservatory.ac.uk/radar/)
     * [Urban Sciences Building](https://3d.usb.urbanobservatory.ac.uk/)
+    * [Healthy Schools](https://schools.view.urbanobservatory.ac.uk/)
   * Requests
     * [For information: by e-mail](mailto:urbanobservatory@ncl.ac.uk)
     * [For deployments: Sense my Street](https://sensemystreet.uk/)
