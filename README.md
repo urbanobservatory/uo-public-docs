@@ -7,17 +7,17 @@ Our intention is to be transparent about the capabilities of the equipment we de
 ## Access to data
 
   * Websites 
-    * [Project information](http://www.urbanobservatory.ac.uk/)
-    * [Newcastle and the region](http://uoweb1.ncl.ac.uk/)
-    * [Rainfall radar](http://uoweb1.ncl.ac.uk/radar/)
+    * [Project information](https://www.urbanobservatory.ac.uk/)
+    * [Newcastle and the region](https://newcastle.urbanobservatory.ac.uk/)
+    * [Rainfall radar](https://newcastle.urbanobservatory.ac.uk/radar/)
     * [Urban Sciences Building](https://3d.usb.urbanobservatory.ac.uk/)
   * Requests
     * [For information: by e-mail](mailto:urbanobservatory@ncl.ac.uk)
     * [For deployments: Sense my Street](https://sensemystreet.uk/)
   * APIs
-    * [Newcastle and the region](http://uoweb1.ncl.ac.uk/api_page/)
+    * [Newcastle and the region](https://newcastle.urbanobservatory.ac.uk/api_docs/)
     * [Traffic management cameras](https://api.newcastle.urbanobservatory.ac.uk/camera/) (WIP)
-    * [Urban Sciences Building](https://api.usb.urbanobservatory.ac.uk/api/v2/sensors/entity) (WIP)
+    * [Urban Sciences Building](https://api.usb.urbanobservatory.ac.uk) (WIP)
 
 ## Problems
 
