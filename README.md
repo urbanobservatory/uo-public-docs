@@ -17,7 +17,7 @@ Our intention is to be transparent about the capabilities of the equipment we de
   * APIs
     * [Newcastle and the region](http://uoweb1.ncl.ac.uk/api_page/)
     * [Traffic management cameras](https://api.newcastle.urbanobservatory.ac.uk/camera/) (WIP)
-    * [Urban Sciences Building](https://api.usb.urbanobservatory.ac.uk/api/v0.1/sensors/entity) (WIP)
+    * [Urban Sciences Building](https://api.usb.urbanobservatory.ac.uk/api/v2/sensors/entity) (WIP)
 
 ## Problems
 
